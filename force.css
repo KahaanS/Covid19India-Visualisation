@@ -1,0 +1,21 @@
+circle.node {
+  stroke: #fff;
+  stroke-width: 0px;
+}
+
+line.link {
+  stroke: firebrick;
+  stroke-opacity: 1;
+}
+
+h1 {
+  color: firebrick;
+  text-align: center;
+  font-size: 45px;
+}
+
+h2 {
+  color: firebrick;
+  font-size:35;
+  text-align: center;
+}
